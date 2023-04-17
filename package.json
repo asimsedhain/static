@@ -24,9 +24,9 @@
 		"node": ">= 14.0.0"
 	},
 	"scripts": {
-		"start": "vite dev --port 80 --open",
+		"start": "vite dev --port 8000 --open",
 		"prepare": "svelte-kit sync",
 		"build": "vite build",
-		"serve": "vite preview --port 80 --open"
+		"serve": "vite preview --port 8000 --open"
 	}
 }
