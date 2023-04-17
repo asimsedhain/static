@@ -1,10 +1,8 @@
 /* TEAM */
 
-	This website template was lovingly handcrafted by Travis Spomer.
-	I'm @TravisSpomer everywhere.
-
+	This website template was lovingly handcrafted by Travis Spomer. And modified by Ashim Sedhain.
 
 /* SITE */
 
-	https://github.com/TravisSpomer/SvelteKitTemplate
-	Built with: Visual Studio Code, TypeScript, SvelteKit, and more
+	https://github.com/asimsedhain
+	Built with: Neovim, TypeScript, SvelteKit, and more
