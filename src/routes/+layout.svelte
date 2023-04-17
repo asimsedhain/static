@@ -14,6 +14,6 @@
 
 <footer>
 	<p>
-		Template &copy; <Year from={2020} /> Travis Spomer.
+		Template &copy; <Year from={2020} /> Ashim Sedhain.
 	</p>
 </footer>
