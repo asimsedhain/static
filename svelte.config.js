@@ -18,7 +18,7 @@ export default {
 	kit: {
 		adapter: adapterStatic(),
 		paths: {
-			base: process.env.BASE_URL || "static",
+			base: process.env.BASE_URL || "/static",
 		},
 	},
 
