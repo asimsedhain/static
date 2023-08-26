@@ -1,9 +1,11 @@
 <script>
-	import { base } from "$app/paths";
+	import { base, assets } from "$app/paths";
 </script>
 
 <svelte:head>
 	<title>SvelteKitTemplate</title>
+	<link rel="icon" type="image/svg" href="{assets}/images/logo.svg" />
+	
 </svelte:head>
 
 <h1>Ashim's SvelteKit template</h1>
