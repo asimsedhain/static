@@ -8,7 +8,7 @@
 	
 </svelte:head>
 
-<h1>Ashim's SvelteKit template</h1>
+<h1 class="font-bold">Ashim's SvelteKit template</h1>
 
 <p>
 	A very opinionated site template for SvelteKit to make it a little more

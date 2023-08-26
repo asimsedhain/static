@@ -12,7 +12,7 @@ export default {
 
 	preprocess: [
 		mdsvex.mdsvex(mdsvexConfig),
-		sveltePreprocess(),
+		sveltePreprocess({ postcss: true }),
 	],
 
 	kit: {

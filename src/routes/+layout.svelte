@@ -1,5 +1,5 @@
 <script lang="ts">
-	import "../app.scss";
+	import "../app.css";
 	import NavBar from "$lib/components/NavBar.svelte";
 	import Year from "$lib/components/Year.svelte";
 </script>
