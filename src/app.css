@@ -36,6 +36,14 @@
 	@apply text-indigo-800;
   }
 
+  p{
+	@apply leading-loose;
+  }
+
+  pre{
+	  @apply bg-gray-500 text-white p-2;
+  }
+
 
   ::selection{
 	@apply text-indigo-50;
@@ -51,6 +59,7 @@
   main{
 	  @apply flex-auto;
   }
+
   a{
 	  @apply underline;
 	  @apply text-indigo-900;

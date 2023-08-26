@@ -13,3 +13,13 @@ title: Page two
 ##### Heading 5
 
 Here's an example page using Markdown, and here's a component: © <Year from={2020} />.
+
+Below is a *bold* **italics**
+`ticked`
+
+and then
+
+```js
+code
+so this is not a big block;
+```
