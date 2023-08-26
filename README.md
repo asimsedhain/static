@@ -26,7 +26,7 @@ At minimum, do this to customize the site for your purposes:
 
 1. Find and replace `SvelteKitTemplate` with the name of your site
 1. Change the package.json project name to repository name. This is needed for properly deploying for Github pages.
-1. Update the copyright information in [`src/routes/__layout.svelte`](src/routes/__layout.svelte)
+1. Update the copyright information in [`src/routes/+layout.svelte`](src/routes/+layout.svelte)
 1. Replace image assets in `static/images/app` with appropriate logos for your site
 1. Give yourself credit in [`humans.txt`](static/humans.txt)
 
